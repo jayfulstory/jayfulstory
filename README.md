@@ -2,7 +2,7 @@
 ```
 name キム ジェヒョン = {
   pronounce: "he" | "his"
-  code: [HTML, CSS, Javascript, Typescript]<br>
+  code: [HTML, CSS, Javascript, Typescript]
   tools: [React, Node]
 }
 ```
