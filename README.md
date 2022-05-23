@@ -1,9 +1,9 @@
 # About me..
 ```
-name キム ジェヒョン = {<br>
-  pronounce: "he" | "his"<br>
+name キム ジェヒョン = {
+  pronounce: "he" | "his"
   code: [HTML, CSS, Javascript, Typescript]<br>
-  tools: [React, Node]<br>
+  tools: [React, Node]
 }
 ```
 
