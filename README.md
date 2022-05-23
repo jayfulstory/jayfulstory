@@ -1,4 +1,4 @@
-<h2>About me..<h2>
+About me..
 
 name キム ジェヒョン = {
   pronounce: "he" | "his"
