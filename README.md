@@ -3,7 +3,7 @@
 ```js
 let jeahyeonKim = {
   name: 'キム　ジェヒョン',
-  occupation: 'Student, Hal tokyo',
+  occupation: 'student, HAL tokyo',
   from: 'seoul🇰🇷',
   currently: 'tokyo🇯🇵',
 };
