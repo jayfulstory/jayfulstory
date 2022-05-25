@@ -1,7 +1,5 @@
-## About me..
-
 ```
-console.log('Hello World!')
+### console.log('Hello World!')
 ```
 
 ![HTML5](https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
