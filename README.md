@@ -1,9 +1,12 @@
 ### console.log('Hello World!')
 
-```
-thank you for comming !
-I'm Jeahyeon Kim from Seoul, Korea🇰🇷 ✈️ currently Tokyo, Japan🇯🇵
-```
+let  = {
+  name: 'キム　ジェヒョン',
+  occupation: 'Student, Hal tokyo',
+  from: 'seoul🇰🇷',
+  currently: 'tokyo🇯🇵',
+};  
+
 things I Study ...
 
 ![HTML5](https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
