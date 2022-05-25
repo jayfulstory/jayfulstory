@@ -2,7 +2,7 @@
 
 ```
 thank you for comming !
-Seoul, Korea🇰🇷 ✈️ Tokyo, Japan🇯🇵
+I'm Jeahyeon Kim from Seoul, Korea🇰🇷 ✈️ currently Tokyo, Japan🇯🇵
 ```
 things I Study ...
 
