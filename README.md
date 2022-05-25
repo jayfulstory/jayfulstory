@@ -1,7 +1,7 @@
 ### console.log('Hello World!')
 
 ```js
-let  = {
+let jeahyeonKim = {
   name: 'キム　ジェヒョン',
   occupation: 'Student, Hal tokyo',
   from: 'seoul🇰🇷',
