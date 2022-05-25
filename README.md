@@ -1,6 +1,6 @@
 ### console.log('Hello World!')
 
-```ts
+```js
 let  = {
   name: 'キム　ジェヒョン',
   occupation: 'Student, Hal tokyo',
