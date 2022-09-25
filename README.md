@@ -9,7 +9,7 @@ let jeahyeonKim = {
 };
 ```
 
-things I Study ...
+things I Study
 
 ![HTML5](https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -19,6 +19,8 @@ things I Study ...
 ![Adobe Photoshop](https://img.shields.io/badge/photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 
+
+things I want to Study ...
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
