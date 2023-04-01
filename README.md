@@ -8,7 +8,6 @@ let jeahyeonKim = {
   currently: 'tokyo🇯🇵',
 };
 ```
-portfolio site https://jayfulstory.github.io/profile/
 
 things I'm Learning at HAL東京
 
